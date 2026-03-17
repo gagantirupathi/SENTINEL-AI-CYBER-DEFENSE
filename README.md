@@ -1,6 +1,6 @@
-# 🛡️ SentinelAI – Cyber Defense System
+# SentinelAI – Cyber Defense System
 
-## 📌 Overview
+##  Overview
 
 **SentinelAI** is an AI-powered cybersecurity monitoring platform designed to detect suspicious system activity, monitor processes, and help users identify potential cyber threats in real time.
 
@@ -10,7 +10,7 @@ This project demonstrates how modern technologies like **AI, system monitoring, 
 
 ---
 
-## 🚨 Problem Statement
+##  Problem Statement
 
 With the rapid growth of digital systems, cyber threats such as:
 
@@ -25,55 +25,55 @@ Traditional security tools rely on **signature-based detection**, meaning they c
 
 However, modern cyber attacks frequently use:
 
-- ⚠️ Zero-day vulnerabilities  
-- ⚠️ Unknown malware  
-- ⚠️ Sophisticated attack techniques  
+-  Zero-day vulnerabilities  
+-  Unknown malware  
+-  Sophisticated attack techniques  
 
 These attacks can easily bypass traditional antivirus systems.
 
-👉 Therefore, there is a need for an **intelligent monitoring system** that can analyze system behavior and detect suspicious activities in real time.
+ Therefore, there is a need for an **intelligent monitoring system** that can analyze system behavior and detect suspicious activities in real time.
 
 ---
 
-## 💡 Solution
+##  Solution
 
 SentinelAI provides a **behavior-based cyber defense system** that monitors system processes and identifies suspicious activities.
 
 The platform includes a **real-time dashboard** that helps users visualize system activity and detect possible threats.
 
-### 🔑 Key Capabilities
+###  Key Capabilities
 
 - Monitoring system performance  
 - Detecting suspicious processes  
 - Identifying abnormal behavior  
 - Providing real-time security alerts  
 
-👉 This enables users to respond to threats **before serious damage occurs**.
+This enables users to respond to threats **before serious damage occurs**.
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 🖥️ System Monitoring
+###  System Monitoring
 - CPU usage monitoring  
 - Memory usage tracking  
 - Process monitoring  
 
 ---
 
-### 🔍 Threat Detection
+###  Threat Detection
 - Detect suspicious system processes  
 - Identify abnormal system behavior  
 
 ---
 
-### 📊 Security Dashboard
+###  Security Dashboard
 - Visual representation of system activity  
 - Real-time monitoring interface  
 
 ---
 
-### 🔔 Alerts
+###  Alerts
 - Notify users when suspicious activity is detected  
 - Real-time threat notifications  
 
@@ -88,7 +88,7 @@ The platform includes a **real-time dashboard** that helps users visualize syste
 
 ---
 
-## 📈 Future Enhancements
+##  Future Enhancements
 
 -  Real-time process termination  
 -  Firewall integration (auto-block IPs)  
