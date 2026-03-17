@@ -1,71 +1,68 @@
-# Welcome to your project
+SentinelAI – Cyber Defense System Overview
 
-## Project info
+SentinelAI is an AI-powered cybersecurity monitoring platform designed to detect suspicious system activity, monitor processes, and help users identify potential cyber threats in real time.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+The system acts as a smart cyber defense layer that observes system behavior, detects anomalies, and provides alerts through an interactive security dashboard.
 
-## How can I edit this code?
+This project demonstrates how modern technologies like AI, system monitoring, and real-time dashboards can be used to build an intelligent cyber defense solution.
 
-There are several ways of editing your application.
+Problem Statement
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+With the rapid growth of digital systems, cyber threats such as malware, ransomware, phishing, and unauthorized system access are increasing significantly.
 
-Changes made via Lovable will be committed automatically to this repo.
+Traditional security tools often rely on signature-based detection, which means they can only detect threats that are already known.
 
-**Use your preferred IDE**
+However, modern cyber attacks frequently use:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Zero-day vulnerabilities
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Unknown malware
 
-Follow these steps:
+Sophisticated attack techniques
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+These attacks often bypass traditional antivirus systems.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Therefore, there is a need for an intelligent monitoring system that can analyze system behavior and detect suspicious activities in real time.
 
-# Step 3: Install the necessary dependencies.
-npm i
+ Solution
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+SentinelAI provides a behavior-based cyber defense system that monitors system processes and identifies suspicious activities.
 
-**Edit a file directly in GitHub**
+The platform includes a real-time dashboard that helps users visualize system activity and detect possible threats.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Key capabilities include:
 
-**Use GitHub Codespaces**
+Monitoring system performance
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Detecting suspicious processes
 
-## What technologies are used for this project?
+Identifying abnormal behavior
 
-This project is built with:
+Providing security alerts
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+This helps users respond to threats before serious damage occurs.
 
-## How can I deploy this project?
+ Features
+   System Monitoring
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+CPU usage monitoring
 
-## Can I connect a custom domain to my Lovable project?
+Memory usage tracking
 
-Yes, you can!
+Process monitoring
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+   Threat Detection
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Detect suspicious system processes
+
+Identify abnormal system behavior
+
+   Security Dashboard
+
+Visual representation of system activity
+
+Real-time system monitoring interface
+
+  Alerts
+
+Notify users when suspicious activity is detected
